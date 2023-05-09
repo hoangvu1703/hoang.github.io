@@ -1,0 +1,15 @@
+h1 {
+    color: rgb(255, 0, 0);
+    text-align: center;
+    font-size: 300%;
+    font-weight:large;
+}
+h1 span {
+    color: greenyellow
+}
+.huy {
+    background-color: gray
+}
+.tự {
+    background-color: aqua;
+}
