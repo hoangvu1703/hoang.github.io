@@ -40,6 +40,13 @@ h1, span{
     overflow: hidden;
     background-color: #00b14f; 
 }
+.hero{
+    width: 90%;
+    margin: 10px auto;
+    padding: 10px 8px;
+    background-color: #f5f5f5;
+    border-radius: 5px;
+}
 
 .cv-profile, .cv-gender, .phone, .cv-email, .adress-cv, .website-cv {
     padding-left: 6px;
